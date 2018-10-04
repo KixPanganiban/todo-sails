@@ -1,27 +1,6 @@
 # todo-sails
+![https://sailsjs.com/images/logos/sails-logo_ltBg_ltBlue.png](https://sailsjs.com/images/logos/sails-logo_ltBg_ltBlue.png)
 
-a [Sails v1](https://sailsjs.com) application
+A simple TODO backend written in [SailsJS](https://sailsjs.com/), a powerful JS web framework with excellent capabilities for quickly building REST APIs. This was written for Todobackend.com, see passing specs here: [https://www.todobackend.com/specs/index.html?https://todo-sails.herokuapp.com/todo](https://www.todobackend.com/specs/index.html?https://todo-sails.herokuapp.com/todo)
 
-
-### Links
-
-+ [Get started](https://sailsjs.com/get-started)
-+ [Sails framework documentation](https://sailsjs.com/documentation)
-+ [Version notes / upgrading](https://sailsjs.com/documentation/upgrading)
-+ [Deployment tips](https://sailsjs.com/documentation/concepts/deployment)
-+ [Community support options](https://sailsjs.com/support)
-+ [Professional / enterprise options](https://sailsjs.com/enterprise)
-
-
-### Version info
-
-This app was originally generated on Thu Oct 04 2018 09:40:38 GMT+0800 (+08) using Sails v1.0.2.
-
-<!-- Internally, Sails used [`sails-generate@1.15.28`](https://github.com/balderdashy/sails-generate/tree/v1.15.28/lib/core-generators/new). -->
-
-
-
-<!--
-Note:  Generators are usually run using the globally-installed `sails` CLI (command-line interface).  This CLI version is _environment-specific_ rather than app-specific, thus over time, as a project's dependencies are upgraded or the project is worked on by different developers on different computers using different versions of Node.js, the Sails dependency in its package.json file may differ from the globally-installed Sails CLI release it was originally generated with.  (Be sure to always check out the relevant [upgrading guides](https://sailsjs.com/upgrading) before upgrading the version of Sails used by your app.  If you're stuck, [get help here](https://sailsjs.com/support).)
--->
-
+Sample instance running at: https://todo-sails.herokuapp.com/todo
