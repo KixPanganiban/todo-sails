@@ -77,6 +77,5 @@ module.exports.sockets = {
   ***************************************************************************/
 
   // grant3rdPartyCookie: true,
-
-
+  onlyAllowOrigins: ["https://todo-sails.herokuapp.com", "http://localhost",]
 };
